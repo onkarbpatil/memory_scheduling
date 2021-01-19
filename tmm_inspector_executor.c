@@ -11,7 +11,7 @@
 #include <omp.h>
 
 #define BILLION  1000000000L;
-
+//Main
 int main(int argc, char *argv[]){
 
 	double **a, **b, **c, **temp;
